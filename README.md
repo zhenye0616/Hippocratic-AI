@@ -95,4 +95,4 @@ docker run --rm -it \
 ---
 
 ## System diagram
-See `docs/block_diagram.md` for a Mermaid diagram of the user → storyteller → judge feedback loop.
+See `block_diagram.md` for a Mermaid diagram of the user → storyteller → judge feedback loop.
